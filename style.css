@@ -1,4 +1,28 @@
 body {
     background-color: rgb(58, 15, 15);
     color:rgb(174, 0, 255) ;
+  font-family: "Bitter", serif;  
+
 }
+
+header{
+    font-family: "Bitter", serif;
+    font-size: 40px ;
+    border-bottom: double 5px rgb(174, 0, 255) ;
+    padding: 48px;
+    text-align: center;
+}
+h1{ 
+      font: size 30px;;
+
+}
+p{
+    font-size: 30px;
+}
+section { 
+     display: flex;
+     justify-content: center;
+     background-color:rgb(255, 0, 170) ;
+}
+div{
+    margin-right: 20% ;
